@@ -11,7 +11,7 @@ function firstElement() {
 }
 
 function secondElement() {
-    firstSpanMessage.innerText = 'You clicked Second button';    
+    firstSpanMessage.innerText = 'You clicked Second button';
 }
 
 function thirdElement() {
