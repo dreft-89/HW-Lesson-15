@@ -4,8 +4,6 @@ let secondButton = document.getElementById('green_button').onclick = secondEleme
 let thirdButton = document.getElementById('red_button').addEventListener("click", thirdElement);
 let firstSpanMessage = document.getElementById('first_span');
 
-
-
 function firstElement() {
     firstSpanMessage.innerText = 'You clicked First button';
 }
